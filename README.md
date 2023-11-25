@@ -1,4 +1,4 @@
-<h1>BSR Insurance Consultanting Project</h1>
+<h1>BSR Insurance Consulting Project</h1>
 
   ## Consultant : Steven Broussard
 
